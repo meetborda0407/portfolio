@@ -21,8 +21,7 @@
    <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000" alt="Power BI" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png
-" alt="Sql" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="Sql" width="40" height="40"/> </a> 
    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  </p>
 
